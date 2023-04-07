@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.7b7a88b6.chunk.js",
-    "main.js.map": "/static/js/main.7b7a88b6.chunk.js.map",
+    "main.js": "/static/js/main.e6d3b3d1.chunk.js",
+    "main.js.map": "/static/js/main.e6d3b3d1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f075ecea.js",
     "runtime-main.js.map": "/static/js/runtime-main.f075ecea.js.map",
     "static/js/2.5ae017e6.chunk.js": "/static/js/2.5ae017e6.chunk.js",
     "static/js/2.5ae017e6.chunk.js.map": "/static/js/2.5ae017e6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.97019a7a4c5b4a3062201a25fe024fc6.js": "/precache-manifest.97019a7a4c5b4a3062201a25fe024fc6.js",
+    "precache-manifest.09e769ea06e6e8bd6ecae13a7bc577a9.js": "/precache-manifest.09e769ea06e6e8bd6ecae13a7bc577a9.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.5ae017e6.chunk.js.LICENSE.txt": "/static/js/2.5ae017e6.chunk.js.LICENSE.txt",
     "static/media/email.d1879350.svg": "/static/media/email.d1879350.svg",
     "static/media/github.ea3e50a5.svg": "/static/media/github.ea3e50a5.svg",
-    "static/media/guilherme.png": "/static/media/guilherme.33475164.png",
+    "static/media/guilherme.png": "/static/media/guilherme.f0cdbc17.png",
     "static/media/hero-background.png": "/static/media/hero-background.29d11491.png",
     "static/media/laptop.png": "/static/media/laptop.20f9fa37.png",
     "static/media/linkedin.5925d29e.svg": "/static/media/linkedin.5925d29e.svg",
@@ -21,6 +21,6 @@
   "entrypoints": [
     "static/js/runtime-main.f075ecea.js",
     "static/js/2.5ae017e6.chunk.js",
-    "static/js/main.7b7a88b6.chunk.js"
+    "static/js/main.e6d3b3d1.chunk.js"
   ]
 }
